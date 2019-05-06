@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>spring-cloud</artifactId>
+        <groupId>com.wsyy</groupId>
+        <version>1.0.0-RELEASE</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.wsyy</groupId>
+    <artifactId>service-module</artifactId>
+    <packaging>pom</packaging>
+
+
+
+
+    <modules>
+        <module>basics-module</module>
+        <module>business-module</module>
+    </modules>
+
+
+
+
+    <!-- Maven控制Spring Profile -->
+    <profiles>
+        <profile>
+            <id>dev</id>
+            <properties>
+                <profileActive>dev</profileActive>
+                <userActive>29a85fbe-1130-4c13-a90a-3ce2e7122c40</userActive>
+                <logConfig>classpath:logback-config.xml</logConfig><!--日志配置文件-->
+                <logUrl>/log</logUrl><!--日志路径-->
+                <maxHistory>30</maxHistory><!--日志保存天数-->
+                <nacosAddress>127.0.0.1:8000</nacosAddress><!--nacos地址-->
+                <elkAddress>127.0.0.1:5044</elkAddress><!--elk地址-->
+                <adminUsername>admin</adminUsername><!--监控帐号-->
+                <adminPassword>admin</adminPassword><!--监控密码-->
+            </properties>
+        </profile>
+        <profile>
+            <id>docker</id>
+            <properties>
+                <profileActive>docker</profileActive>
+                <logConfig>classpath:logback-config.xml</logConfig><!--日志配置文件-->
+                <logUrl>/log</logUrl><!--日志路径-->
+                <maxHistory>30</maxHistory><!--日志保存天数-->
+            </properties>
+        </profile>
+    </profiles>
+
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <fork>true</fork>
+                    <includeSystemScope>true</includeSystemScope>
+                    <classifier>exec</classifier>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>copy</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>copy-dependencies</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>${project.build.directory}/lib</outputDirectory>
+                            <!--<outputDirectory>../lib</outputDirectory>-->
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <configuration>
+                    <skipTests>true</skipTests>
+                    <testFailureIgnore>true</testFailureIgnore>
+                </configuration>
+            </plugin>
+        </plugins>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+                <excludes>
+                    <exclude>bootstrap.yml</exclude>
+                    <exclude>bootstrap-*.yml</exclude>
+                    <exclude>application.yml</exclude>
+                    <exclude>application-*.yml</exclude>
+                </excludes>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+                <includes>
+                    <include>bootstrap.yml</include>
+                    <include>bootstrap-${profileActive}.yml</include>
+                    <include>application.yml</include>
+                    <include>application-${profileActive}.yml</include>
+                </includes>
+            </resource>
+        </resources>
+    </build>
+
+
+</project>

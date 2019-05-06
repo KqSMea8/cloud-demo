@@ -1,0 +1,40 @@
+2019-04-25 17:20:44,153 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:20:44,155 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-25 17:22:20,906 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:22:20,906 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-25 17:22:29,288 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:22:29,288 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-25 17:24:34,425 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:24:34,425 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-25 17:24:43,378 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:24:43,378 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-25 17:25:25,342 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:25:25,342 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-25 17:28:59,622 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:28:59,622 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-25 17:31:21,097 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:31:21,097 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-25 17:31:29,982 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:31:29,982 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-25 17:31:53,574 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-25 17:31:53,574 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 
+

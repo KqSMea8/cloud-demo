@@ -1,0 +1,64 @@
+2019-05-05 14:00:25,035 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 14:00:25,037 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-05-05 14:01:23,329 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 14:01:23,330 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-05-05 14:01:31,832 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 14:01:31,833 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 14:30:27,856 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 14:30:27,856 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-05-05 14:52:30,952 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 14:52:30,952 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:00:54,087 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:00:54,087 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-05-05 15:01:03,058 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:01:03,058 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:16:38,572 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:16:38,572 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-05-05 15:17:11,541 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:17:11,541 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:17:43,064 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:17:56,318 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:17:56,357 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:17:58,113 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:21:00,361 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:21:00,361 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-05-05 15:21:09,940 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:21:09,940 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:21:15,923 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:21:15,923 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-05-05 15:21:24,652 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:21:24,652 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8800_true,
+
+2019-05-05 15:24:45,447 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8800:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-05-05 15:24:45,447 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+

@@ -1,0 +1,828 @@
+2019-04-26 16:06:06,476 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:06:26,499 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:06:46,500 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:07:06,502 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:07:26,504 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:07:46,505 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:08:06,505 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:08:26,506 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:08:46,507 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:09:06,508 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:09:26,511 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:09:46,512 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:10:06,513 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:10:26,514 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:10:46,515 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:11:06,517 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:11:26,518 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:11:46,520 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:12:06,521 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:12:20,718 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2019-04-26 16:12:26,522 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:12:46,523 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:12:55,445 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2019-04-26 16:12:55,446 INFO serviceName: DEFAULT_GROUP@@gateway-server changed, schedule push for: 172.17.118.113:56835, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,56835,974696562630300
+
+2019-04-26 16:12:55,446 INFO send udp packet: 172.17.118.113,56835,974696562630300
+
+2019-04-26 16:13:03,198 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2019-04-26 16:13:03,198 INFO serviceName: DEFAULT_GROUP@@gateway-server changed, schedule push for: 172.17.118.113:52127, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,52127,974704316013500
+
+2019-04-26 16:13:03,199 INFO send udp packet: 172.17.118.113,52127,974704316013500
+
+2019-04-26 16:13:03,206 INFO received ack: {"type": "push-ack", "lastRefTime":"974704316013500", "data":""} from: 172.17.118.113:, cost: 52127 ms, unacked: 7, total push: 1
+
+2019-04-26 16:13:05,449 INFO retry to push data, key: 172.17.118.113,56835,974696562630300
+
+2019-04-26 16:13:05,449 INFO send udp packet: 172.17.118.113,56835,974696562630300
+
+2019-04-26 16:13:06,525 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:13:15,451 INFO retry to push data, key: 172.17.118.113,56835,974696562630300
+
+2019-04-26 16:13:15,451 WARN max re-push times reached, retry times 2, key: 172.17.118.113,56835,974696562630300
+
+2019-04-26 16:13:26,525 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:13:46,526 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:14:06,527 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:14:26,529 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:14:46,531 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:15:06,531 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:15:26,532 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:15:46,533 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:16:01,561 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2019-04-26 16:16:01,561 INFO serviceName: DEFAULT_GROUP@@gateway-server changed, schedule push for: 172.17.118.113:52127, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,52127,974882678799800
+
+2019-04-26 16:16:01,561 INFO send udp packet: 172.17.118.113,52127,974882678799800
+
+2019-04-26 16:16:06,534 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:16:08,869 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2019-04-26 16:16:08,869 INFO serviceName: DEFAULT_GROUP@@gateway-server changed, schedule push for: 172.17.118.113:50315, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,50315,974889986627500
+
+2019-04-26 16:16:08,869 INFO send udp packet: 172.17.118.113,50315,974889986627500
+
+2019-04-26 16:16:08,875 INFO received ack: {"type": "push-ack", "lastRefTime":"974889986627500", "data":""} from: 172.17.118.113:, cost: 50315 ms, unacked: 6, total push: 1
+
+2019-04-26 16:16:11,135 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2019-04-26 16:16:11,135 INFO serviceName: DEFAULT_GROUP@@gateway-server changed, schedule push for: 172.17.118.113:50315, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,50315,974892252559300
+
+2019-04-26 16:16:11,135 INFO send udp packet: 172.17.118.113,50315,974892252559300
+
+2019-04-26 16:16:11,562 INFO retry to push data, key: 172.17.118.113,52127,974882678799800
+
+2019-04-26 16:16:11,562 INFO send udp packet: 172.17.118.113,52127,974882678799800
+
+2019-04-26 16:16:21,137 INFO retry to push data, key: 172.17.118.113,50315,974892252559300
+
+2019-04-26 16:16:21,137 INFO send udp packet: 172.17.118.113,50315,974892252559300
+
+2019-04-26 16:16:21,564 INFO retry to push data, key: 172.17.118.113,52127,974882678799800
+
+2019-04-26 16:16:21,564 WARN max re-push times reached, retry times 2, key: 172.17.118.113,52127,974882678799800
+
+2019-04-26 16:16:26,534 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:16:31,139 INFO retry to push data, key: 172.17.118.113,50315,974892252559300
+
+2019-04-26 16:16:31,139 WARN max re-push times reached, retry times 2, key: 172.17.118.113,50315,974892252559300
+
+2019-04-26 16:16:46,535 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:17:06,536 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:17:26,538 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:17:46,540 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:18:06,541 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:18:26,542 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:18:46,543 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:19:06,545 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:19:26,546 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:19:46,548 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:20:06,550 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:20:26,552 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:20:46,553 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:21:06,555 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:21:26,557 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:21:46,559 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:22:06,560 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:22:26,561 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:22:46,563 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:23:06,564 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:23:26,565 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:23:46,566 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:24:06,567 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:24:26,569 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:24:46,571 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:25:06,572 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:25:26,573 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:25:46,574 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:26:06,575 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:26:26,576 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:26:46,578 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:27:06,580 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:27:26,582 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:27:46,583 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:28:06,584 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:28:26,585 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:28:46,586 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:29:06,618 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:29:26,620 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:29:46,622 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:30:06,624 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:30:10,450 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:30:26,625 INFO [NACOS-PUSH] clientMap size: 1
+
+2019-04-26 16:30:46,626 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:31:06,628 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:31:26,630 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:31:46,630 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:32:06,631 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:32:26,632 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:32:46,634 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:33:06,635 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:33:26,637 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:33:46,638 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:34:06,639 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:34:26,640 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:34:46,642 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:35:06,643 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:35:26,644 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:35:46,645 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:36:06,647 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:36:26,649 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:36:46,652 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:37:06,654 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:37:26,656 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:37:46,657 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:38:06,658 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:38:26,659 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:38:46,659 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:39:06,660 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:39:26,662 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:39:46,663 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:40:06,664 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:40:26,666 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:40:46,667 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:41:06,668 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:41:26,670 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:41:44,423 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:41:44,423 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:53848, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,53848,976425540559200
+
+2019-04-26 16:41:44,423 INFO send udp packet: 172.17.118.113,53848,976425540559200
+
+2019-04-26 16:41:46,671 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:41:54,425 INFO retry to push data, key: 172.17.118.113,53848,976425540559200
+
+2019-04-26 16:41:54,425 INFO send udp packet: 172.17.118.113,53848,976425540559200
+
+2019-04-26 16:41:54,740 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:41:54,740 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:61643, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,61643,976435857546400
+
+2019-04-26 16:41:54,740 INFO send udp packet: 172.17.118.113,61643,976435857546400
+
+2019-04-26 16:41:54,746 INFO received ack: {"type": "push-ack", "lastRefTime":"976435857546400", "data":""} from: 172.17.118.113:, cost: 61643 ms, unacked: 6, total push: 1
+
+2019-04-26 16:42:04,426 INFO retry to push data, key: 172.17.118.113,53848,976425540559200
+
+2019-04-26 16:42:04,426 WARN max re-push times reached, retry times 2, key: 172.17.118.113,53848,976425540559200
+
+2019-04-26 16:42:06,673 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:42:26,674 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:42:46,675 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:43:06,676 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:43:26,677 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:43:46,678 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:44:06,679 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:44:10,628 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:44:17,476 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:44:17,476 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:61643, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,61643,976578594101100
+
+2019-04-26 16:44:17,476 INFO send udp packet: 172.17.118.113,61643,976578594101100
+
+2019-04-26 16:44:17,478 INFO received ack: {"type": "push-ack", "lastRefTime":"976578594101100", "data":""} from: 172.17.118.113:, cost: 61643 ms, unacked: 2, total push: 0
+
+2019-04-26 16:44:26,681 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:44:46,682 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:44:46,930 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:45:06,683 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:45:26,684 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:45:44,887 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:45:44,888 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:55513, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,55513,976666005289000
+
+2019-04-26 16:45:44,888 INFO send udp packet: 172.17.118.113,55513,976666005289000
+
+2019-04-26 16:45:44,902 INFO received ack: {"type": "push-ack", "lastRefTime":"976666005289000", "data":""} from: 172.17.118.113:, cost: 55513 ms, unacked: 14, total push: 0
+
+2019-04-26 16:45:46,684 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:46:06,685 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:46:26,686 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:46:46,688 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:47:06,690 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:47:26,692 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:47:46,693 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:48:06,291 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:48:06,291 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:55513, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,55513,976807409502600
+
+2019-04-26 16:48:06,291 INFO send udp packet: 172.17.118.113,55513,976807409502600
+
+2019-04-26 16:48:06,694 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:48:16,292 INFO retry to push data, key: 172.17.118.113,55513,976807409502600
+
+2019-04-26 16:48:16,292 INFO send udp packet: 172.17.118.113,55513,976807409502600
+
+2019-04-26 16:48:19,074 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:48:19,074 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:53071, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,53071,976820192699500
+
+2019-04-26 16:48:19,074 INFO send udp packet: 172.17.118.113,53071,976820192699500
+
+2019-04-26 16:48:19,082 INFO received ack: {"type": "push-ack", "lastRefTime":"976820192699500", "data":""} from: 172.17.118.113:, cost: 53071 ms, unacked: 8, total push: 1
+
+2019-04-26 16:48:26,294 INFO retry to push data, key: 172.17.118.113,55513,976807409502600
+
+2019-04-26 16:48:26,294 WARN max re-push times reached, retry times 2, key: 172.17.118.113,55513,976807409502600
+
+2019-04-26 16:48:26,694 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:48:46,695 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:48:50,682 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:49:03,367 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:49:03,367 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:53071, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,53071,976864485460100
+
+2019-04-26 16:49:03,367 INFO send udp packet: 172.17.118.113,53071,976864485460100
+
+2019-04-26 16:49:03,369 INFO received ack: {"type": "push-ack", "lastRefTime":"976864485460100", "data":""} from: 172.17.118.113:, cost: 53071 ms, unacked: 2, total push: 0
+
+2019-04-26 16:49:06,696 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:49:26,697 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:49:46,698 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:50:06,222 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:50:06,222 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:53071, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,53071,976927340318000
+
+2019-04-26 16:50:06,222 INFO send udp packet: 172.17.118.113,53071,976927340318000
+
+2019-04-26 16:50:06,698 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:50:14,842 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:50:14,842 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:51984, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,51984,976935960646100
+
+2019-04-26 16:50:14,843 INFO send udp packet: 172.17.118.113,51984,976935960646100
+
+2019-04-26 16:50:14,860 INFO received ack: {"type": "push-ack", "lastRefTime":"976935960646100", "data":""} from: 172.17.118.113:, cost: 51984 ms, unacked: 17, total push: 1
+
+2019-04-26 16:50:16,223 INFO retry to push data, key: 172.17.118.113,53071,976927340318000
+
+2019-04-26 16:50:16,223 INFO send udp packet: 172.17.118.113,53071,976927340318000
+
+2019-04-26 16:50:26,226 INFO retry to push data, key: 172.17.118.113,53071,976927340318000
+
+2019-04-26 16:50:26,226 WARN max re-push times reached, retry times 2, key: 172.17.118.113,53071,976927340318000
+
+2019-04-26 16:50:26,699 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:50:46,700 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:51:06,702 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:51:19,279 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:51:19,279 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:51984, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,51984,977000397338900
+
+2019-04-26 16:51:19,279 INFO send udp packet: 172.17.118.113,51984,977000397338900
+
+2019-04-26 16:51:26,703 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:51:29,280 INFO retry to push data, key: 172.17.118.113,51984,977000397338900
+
+2019-04-26 16:51:29,280 INFO send udp packet: 172.17.118.113,51984,977000397338900
+
+2019-04-26 16:51:30,114 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:51:30,114 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:55742, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,55742,977011231927800
+
+2019-04-26 16:51:30,114 INFO send udp packet: 172.17.118.113,55742,977011231927800
+
+2019-04-26 16:51:30,119 INFO received ack: {"type": "push-ack", "lastRefTime":"977011231927800", "data":""} from: 172.17.118.113:, cost: 55742 ms, unacked: 5, total push: 1
+
+2019-04-26 16:51:39,281 INFO retry to push data, key: 172.17.118.113,51984,977000397338900
+
+2019-04-26 16:51:39,281 WARN max re-push times reached, retry times 2, key: 172.17.118.113,51984,977000397338900
+
+2019-04-26 16:51:46,704 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:52:06,705 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:52:26,706 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:52:46,707 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:53:06,734 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:53:21,681 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:53:21,681 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:55742, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,55742,977122798872500
+
+2019-04-26 16:53:21,681 INFO send udp packet: 172.17.118.113,55742,977122798872500
+
+2019-04-26 16:53:26,735 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:53:31,683 INFO retry to push data, key: 172.17.118.113,55742,977122798872500
+
+2019-04-26 16:53:31,683 INFO send udp packet: 172.17.118.113,55742,977122798872500
+
+2019-04-26 16:53:41,685 INFO retry to push data, key: 172.17.118.113,55742,977122798872500
+
+2019-04-26 16:53:41,685 WARN max re-push times reached, retry times 2, key: 172.17.118.113,55742,977122798872500
+
+2019-04-26 16:53:45,225 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:53:45,225 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:64888, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,64888,977146343004300
+
+2019-04-26 16:53:45,225 INFO send udp packet: 172.17.118.113,64888,977146343004300
+
+2019-04-26 16:53:45,232 INFO received ack: {"type": "push-ack", "lastRefTime":"977146343004300", "data":""} from: 172.17.118.113:, cost: 64888 ms, unacked: 7, total push: 0
+
+2019-04-26 16:53:46,736 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:54:06,737 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:54:26,738 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:54:46,739 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:55:06,741 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:55:26,743 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:55:46,743 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:56:06,744 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:56:26,746 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:56:46,747 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:57:06,748 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:57:26,749 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:57:46,749 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:58:06,750 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:58:26,751 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:58:44,304 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:58:46,753 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 16:58:58,402 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:58:58,402 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:60989, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,60989,977459519868300
+
+2019-04-26 16:58:58,402 INFO send udp packet: 172.17.118.113,60989,977459519868300
+
+2019-04-26 16:58:58,409 INFO received ack: {"type": "push-ack", "lastRefTime":"977459519868300", "data":""} from: 172.17.118.113:, cost: 60989 ms, unacked: 7, total push: 0
+
+2019-04-26 16:59:06,754 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:59:24,901 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 16:59:24,901 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:60989, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,60989,977486018872500
+
+2019-04-26 16:59:24,901 INFO send udp packet: 172.17.118.113,60989,977486018872500
+
+2019-04-26 16:59:26,755 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 16:59:34,902 INFO retry to push data, key: 172.17.118.113,60989,977486018872500
+
+2019-04-26 16:59:34,902 INFO send udp packet: 172.17.118.113,60989,977486018872500
+
+2019-04-26 16:59:44,903 INFO retry to push data, key: 172.17.118.113,60989,977486018872500
+
+2019-04-26 16:59:44,903 WARN max re-push times reached, retry times 2, key: 172.17.118.113,60989,977486018872500
+
+2019-04-26 16:59:46,756 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:00:06,757 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:00:26,759 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:00:46,761 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:01:06,761 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:01:26,763 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:01:46,763 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:02:06,764 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:02:26,765 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:02:46,766 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:03:06,767 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:03:26,768 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:03:46,769 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:04:06,770 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:04:26,772 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:04:33,778 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 17:04:33,778 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:55659, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,55659,977794895925800
+
+2019-04-26 17:04:33,778 INFO send udp packet: 172.17.118.113,55659,977794895925800
+
+2019-04-26 17:04:33,793 INFO received ack: {"type": "push-ack", "lastRefTime":"977794895925800", "data":""} from: 172.17.118.113:, cost: 55659 ms, unacked: 15, total push: 0
+
+2019-04-26 17:04:46,772 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:05:06,774 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:05:26,775 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:05:46,776 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:06:06,776 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:06:26,777 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:06:46,778 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:07:06,780 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:07:26,780 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:07:46,781 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:08:06,782 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:08:26,783 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:08:42,911 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 17:08:42,911 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:55659, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,55659,978044028520600
+
+2019-04-26 17:08:42,911 INFO send udp packet: 172.17.118.113,55659,978044028520600
+
+2019-04-26 17:08:46,784 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:08:52,913 INFO retry to push data, key: 172.17.118.113,55659,978044028520600
+
+2019-04-26 17:08:52,913 INFO send udp packet: 172.17.118.113,55659,978044028520600
+
+2019-04-26 17:08:58,549 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 17:08:58,549 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:55794, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,55794,978059666598100
+
+2019-04-26 17:08:58,549 INFO send udp packet: 172.17.118.113,55794,978059666598100
+
+2019-04-26 17:08:58,555 INFO received ack: {"type": "push-ack", "lastRefTime":"978059666598100", "data":""} from: 172.17.118.113:, cost: 55794 ms, unacked: 6, total push: 1
+
+2019-04-26 17:09:02,915 INFO retry to push data, key: 172.17.118.113,55659,978044028520600
+
+2019-04-26 17:09:02,915 WARN max re-push times reached, retry times 2, key: 172.17.118.113,55659,978044028520600
+
+2019-04-26 17:09:06,785 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:09:26,785 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:09:46,786 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:10:06,788 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:10:26,789 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:10:46,790 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:11:06,791 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:11:26,793 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:11:46,794 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:12:06,795 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:12:26,796 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:12:46,797 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:13:06,799 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:13:26,800 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:13:46,801 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:14:06,801 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:14:26,802 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:14:46,803 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:15:06,803 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:15:26,804 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:15:46,805 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:16:06,807 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:16:26,807 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:16:46,808 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:17:06,810 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:17:26,811 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:17:46,812 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:18:06,813 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:18:26,815 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:18:46,816 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:19:06,818 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:19:26,820 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:19:46,820 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:20:06,822 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:20:26,823 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:20:35,693 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 17:20:35,693 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:55794, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,55794,978756810520400
+
+2019-04-26 17:20:35,693 INFO send udp packet: 172.17.118.113,55794,978756810520400
+
+2019-04-26 17:20:45,695 INFO retry to push data, key: 172.17.118.113,55794,978756810520400
+
+2019-04-26 17:20:45,695 INFO send udp packet: 172.17.118.113,55794,978756810520400
+
+2019-04-26 17:20:46,824 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:20:53,035 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 17:20:53,035 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:49986, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,49986,978774153115000
+
+2019-04-26 17:20:53,035 INFO send udp packet: 172.17.118.113,49986,978774153115000
+
+2019-04-26 17:20:53,042 INFO received ack: {"type": "push-ack", "lastRefTime":"978774153115000", "data":""} from: 172.17.118.113:, cost: 49986 ms, unacked: 7, total push: 1
+
+2019-04-26 17:20:55,697 INFO retry to push data, key: 172.17.118.113,55794,978756810520400
+
+2019-04-26 17:20:55,697 WARN max re-push times reached, retry times 2, key: 172.17.118.113,55794,978756810520400
+
+2019-04-26 17:21:06,824 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:21:26,825 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:21:46,826 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:22:06,827 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:22:26,828 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:22:46,829 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:23:06,830 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:23:26,832 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:23:46,833 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:24:06,834 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:24:26,835 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:24:46,835 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:25:06,836 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:25:14,175 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 17:25:14,175 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:49986, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,49986,979035292551700
+
+2019-04-26 17:25:14,175 INFO send udp packet: 172.17.118.113,49986,979035292551700
+
+2019-04-26 17:25:24,177 INFO retry to push data, key: 172.17.118.113,49986,979035292551700
+
+2019-04-26 17:25:24,177 INFO send udp packet: 172.17.118.113,49986,979035292551700
+
+2019-04-26 17:25:26,838 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:25:33,352 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 17:25:33,352 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:54906, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,54906,979054469730200
+
+2019-04-26 17:25:33,352 INFO send udp packet: 172.17.118.113,54906,979054469730200
+
+2019-04-26 17:25:33,360 INFO received ack: {"type": "push-ack", "lastRefTime":"979054469730200", "data":""} from: 172.17.118.113:, cost: 54906 ms, unacked: 8, total push: 1
+
+2019-04-26 17:25:34,178 INFO retry to push data, key: 172.17.118.113,49986,979035292551700
+
+2019-04-26 17:25:34,178 WARN max re-push times reached, retry times 2, key: 172.17.118.113,49986,979035292551700
+
+2019-04-26 17:25:46,839 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:26:06,839 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:26:24,931 INFO DEFAULT_GROUP@@swagger-server is changed, add it to push queue.
+
+2019-04-26 17:26:24,931 INFO serviceName: DEFAULT_GROUP@@swagger-server changed, schedule push for: 172.17.118.113:54906, agent: Nacos-Java-Client:v1.0.0, key: 172.17.118.113,54906,979106048541000
+
+2019-04-26 17:26:24,931 INFO send udp packet: 172.17.118.113,54906,979106048541000
+
+2019-04-26 17:26:26,840 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:26:34,933 INFO retry to push data, key: 172.17.118.113,54906,979106048541000
+
+2019-04-26 17:26:34,933 INFO send udp packet: 172.17.118.113,54906,979106048541000
+
+2019-04-26 17:26:44,935 INFO retry to push data, key: 172.17.118.113,54906,979106048541000
+
+2019-04-26 17:26:44,935 WARN max re-push times reached, retry times 2, key: 172.17.118.113,54906,979106048541000
+
+2019-04-26 17:26:46,840 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:27:06,841 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:27:26,842 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:27:46,843 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:28:06,844 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:28:26,846 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:28:46,847 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:29:06,848 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:29:26,850 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:29:46,851 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:30:06,852 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:30:26,853 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-04-26 17:30:46,855 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:31:06,856 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-04-26 17:31:26,857 INFO [NACOS-PUSH] clientMap size: 0
+

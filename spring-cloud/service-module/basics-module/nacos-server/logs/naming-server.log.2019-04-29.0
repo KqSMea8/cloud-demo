@@ -1,0 +1,286 @@
+2019-04-29 08:36:49,735 INFO listen for service meta change
+
+2019-04-29 08:36:54,223 INFO [SERVER-INIT] got port: 8000
+
+2019-04-29 08:36:54,223 INFO [SERVER-INIT] got path: /nacos
+
+2019-04-29 08:36:54,524 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-04-29 08:37:22,059 INFO [HEALTH-CHECK] health check is false
+
+2019-04-29 08:37:54,527 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-04-29 08:37:59,295 INFO creating empty service e2028abc-3fdf-492c-a3d7-d8de579aa73c:DEFAULT_GROUP@@swagger-server
+
+2019-04-29 08:37:59,308 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556498279286,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-04-29 08:37:59,313 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556498279286,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 08:42:22,060 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 08:45:39,520 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 08:45:54,542 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556498754542,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 08:46:28,227 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 08:46:36,742 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556498796742,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 08:47:22,062 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 08:52:22,063 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 08:52:52,193 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 08:53:04,569 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556499184569,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 08:54:35,112 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 08:55:12,859 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556499312859,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 08:57:22,064 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:02:22,065 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:04:46,417 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 09:04:55,035 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556499895034,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 09:05:29,466 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 09:05:37,949 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556499937949,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 09:06:30,033 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 09:06:58,673 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556500018673,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 09:07:22,066 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:12:22,067 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:17:22,068 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:22:22,069 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:27:22,072 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:32:22,072 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:37:22,073 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:42:22,074 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:47:22,076 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:47:24,997 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 09:47:35,303 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556502455303,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 09:48:03,646 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 09:49:48,171 INFO creating empty service public:DEFAULT_GROUP@@swagger-server
+
+2019-04-29 09:49:58,055 WARN cluster: DEFAULT not found, ip: {"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556502598054,"marked":false,"metadata":null,"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":0}, will create new cluster with default configuration.
+
+2019-04-29 09:49:58,055 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556502598054,"marked":false,"metadata":null,"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":0}]}
+
+2019-04-29 09:50:46,440 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 09:51:13,091 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 09:52:20,857 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556502740857,"marked":false,"metadata":null,"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":0}]}
+
+2019-04-29 09:52:22,077 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 09:57:22,077 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:02:22,078 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:07:22,080 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:12:22,081 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:17:22,084 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:22:22,085 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:27:22,086 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:28:27,493 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 10:30:20,446 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8500#DEFAULT#DEFAULT_GROUP@@swagger-server","ip":"172.17.118.113","lastBeat":1556505020446,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8500,"serviceName":"DEFAULT_GROUP@@swagger-server","tenant":"","weight":1}]}
+
+2019-04-29 10:31:33,407 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@swagger-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 10:32:22,087 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:33:21,857 INFO [DEAD-SERVICE] {"appName":"","checksum":"eadff96c9e4577dc87d9e3d8cb167e02","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":true,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":3041,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1556505198872},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","serviceName":"DEFAULT_GROUP@@swagger-server","sitegroup":"","useIPPort4Check":true}},"enabled":true,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1556504907493,"metadata":{},"name":"DEFAULT_GROUP@@swagger-server","namespaceId":"public","owners":[],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2019-04-29 10:33:26,831 INFO [DEAD-SERVICE] {"appName":"","checksum":"eadff96c9e4577dc87d9e3d8cb167e02","clusterMap":{"DEFAULT":{"defCkport":80,"defIPPort":80,"defaultCheckPort":80,"defaultPort":80,"healthCheckTask":{"cancelled":true,"checkRTBest":9223372036854775807,"checkRTLast":-1,"checkRTLastLast":-1,"checkRTNormalized":2462,"checkRTWorst":0,"cluster":{"$ref":".."},"startTime":1556505205104},"healthChecker":{"type":"TCP"},"metadata":{},"name":"DEFAULT","serviceName":"DEFAULT_GROUP@@swagger-server","sitegroup":"","useIPPort4Check":true}},"enabled":true,"groupName":"DEFAULT_GROUP","ipDeleteTimeout":30000,"lastModifiedMillis":1556505093407,"metadata":{},"name":"DEFAULT_GROUP@@swagger-server","namespaceId":"e2028abc-3fdf-492c-a3d7-d8de579aa73c","owners":[],"protectThreshold":0,"resetWeight":false,"selector":{"type":"none"},"token":""}
+
+2019-04-29 10:37:22,088 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:37:33,032 INFO creating empty service e2028abc-3fdf-492c-a3d7-d8de579aa73c:DEFAULT_GROUP@@gateway-server
+
+2019-04-29 10:37:33,032 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556505453032,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-04-29 10:37:33,032 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556505453032,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 10:39:10,031 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 10:39:19,267 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556505559267,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 10:40:25,935 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.e2028abc-3fdf-492c-a3d7-d8de579aa73c##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 10:42:10,308 INFO creating empty service public:DEFAULT_GROUP@@gateway-server
+
+2019-04-29 10:42:10,308 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556505730308,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-04-29 10:42:10,308 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556505730308,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 10:42:22,089 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:43:01,225 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 10:43:21,500 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556505801499,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 10:47:22,090 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:52:22,091 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:57:22,091 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 10:57:45,669 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 11:00:14,576 INFO listen for service meta change
+
+2019-04-29 11:00:25,698 INFO [SERVER-INIT] got port: 8000
+
+2019-04-29 11:00:25,698 INFO [SERVER-INIT] got path: /nacos
+
+2019-04-29 11:00:34,411 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-04-29 11:00:54,189 INFO [HEALTH-CHECK] health check is false
+
+2019-04-29 11:01:34,415 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-04-29 11:19:17,621 INFO listen for service meta change
+
+2019-04-29 11:19:20,937 INFO [SERVER-INIT] got port: 8000
+
+2019-04-29 11:19:20,937 INFO [SERVER-INIT] got path: /nacos
+
+2019-04-29 11:19:22,435 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-04-29 11:19:35,298 INFO creating empty service public:DEFAULT_GROUP@@gateway-server
+
+2019-04-29 11:19:35,313 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556507975288,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-04-29 11:19:35,318 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556507975288,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 11:19:49,707 INFO [HEALTH-CHECK] health check is false
+
+2019-04-29 11:19:49,908 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 11:32:10,451 INFO listen for service meta change
+
+2019-04-29 11:32:16,648 INFO [SERVER-INIT] got port: 8000
+
+2019-04-29 11:32:16,648 INFO [SERVER-INIT] got path: /nacos
+
+2019-04-29 11:32:30,267 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-04-29 11:32:45,422 INFO [HEALTH-CHECK] health check is false
+
+2019-04-29 11:33:30,274 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-04-29 11:34:34,834 INFO creating empty service public:DEFAULT_GROUP@@gateway-server
+
+2019-04-29 11:34:34,847 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556508874825,"marked":false,"metadata":{},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-04-29 11:34:34,851 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556508874825,"marked":false,"metadata":{},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 11:35:12,835 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 11:36:01,113 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556508961113,"marked":false,"metadata":{},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 11:37:23,240 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 11:37:30,813 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556509050813,"marked":false,"metadata":{},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 11:37:45,424 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 11:39:47,485 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 11:42:45,424 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:03:51,457 INFO listen for service meta change
+
+2019-04-29 14:03:57,973 INFO [SERVER-INIT] got port: 8848
+
+2019-04-29 14:03:57,973 INFO [SERVER-INIT] got path: /nacos
+
+2019-04-29 14:04:11,286 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-04-29 14:04:26,551 INFO [HEALTH-CHECK] health check is false
+
+2019-04-29 14:05:11,292 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-04-29 14:07:49,364 INFO creating empty service public:DEFAULT_GROUP@@gateway-server
+
+2019-04-29 14:07:49,379 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556518069356,"marked":false,"metadata":{},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2019-04-29 14:07:49,383 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556518069356,"marked":false,"metadata":{},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 14:08:04,941 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 14:08:15,041 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556518095041,"marked":false,"metadata":{},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 14:09:26,552 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:10:05,639 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[]}
+
+2019-04-29 14:10:31,211 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@gateway-server, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"172.17.118.113#8888#DEFAULT#DEFAULT_GROUP@@gateway-server","ip":"172.17.118.113","lastBeat":1556518231210,"marked":false,"metadata":{},"port":8888,"serviceName":"DEFAULT_GROUP@@gateway-server","tenant":"","weight":1}]}
+
+2019-04-29 14:13:21,618 INFO listen for service meta change
+
+2019-04-29 14:13:24,884 INFO [SERVER-INIT] got port: 8000
+
+2019-04-29 14:13:24,884 INFO [SERVER-INIT] got path: /nacos
+
+2019-04-29 14:13:26,456 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-04-29 14:13:53,804 INFO [HEALTH-CHECK] health check is false
+
+2019-04-29 14:14:47,212 INFO listen for service meta change
+
+2019-04-29 14:14:50,279 INFO [SERVER-INIT] got port: 8000
+
+2019-04-29 14:14:50,279 INFO [SERVER-INIT] got path: /nacos
+
+2019-04-29 14:14:52,010 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on
+
+2019-04-29 14:15:19,249 INFO [HEALTH-CHECK] health check is false
+
+2019-04-29 14:15:52,015 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-04-29 14:20:19,249 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:25:19,251 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:30:19,251 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:35:19,254 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:40:19,254 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:45:19,255 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:50:19,256 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 14:55:19,257 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 15:00:19,258 INFO [HEALTH-CHECK] health check is true
+
+2019-04-29 15:05:19,258 INFO [HEALTH-CHECK] health check is true
+

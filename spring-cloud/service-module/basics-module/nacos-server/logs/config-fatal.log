@@ -1,0 +1,6 @@
+2019-05-05 13:59:06,350 WARN [master-db] jdbc:mysql://localhost:3306/cloud-nacos-db?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2019-05-05 13:59:06,480 WARN isQuickStart:false
+
+2019-05-05 13:59:07,143 WARN useAddressServer:true
+

@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: ${nacosAddress}
+        namespace: ${namespace}
+      config:
+        server-addr: ${nacosAddress}
+        namespace: ${namespace}
+        shared-dataids: gateway-server.yml
+        refreshable-dataids: gateway-server.yml

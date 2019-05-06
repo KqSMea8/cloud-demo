@@ -1,0 +1,24 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true #开启路由自动匹配
+          lower-case-service-id: true #服务名小写
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+#日志参数
+log:
+  url: @logUrl@/${spring.application.name}/
+  max-history: @maxHistory@
+
+logging:
+  config: @logConfig@
+

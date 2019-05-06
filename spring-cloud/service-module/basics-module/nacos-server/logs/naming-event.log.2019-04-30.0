@@ -1,0 +1,58 @@
+2019-04-30 11:36:50,141 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:36:50,143 INFO [IP-UPDATED] namespace: 0a39cefa-cf80-4019-ac2e-298a7b017b97, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-30 11:37:47,873 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:37:47,873 INFO [IP-UPDATED] namespace: 0a39cefa-cf80-4019-ac2e-298a7b017b97, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-30 11:38:14,997 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:38:14,997 INFO [IP-UPDATED] namespace: 0a39cefa-cf80-4019-ac2e-298a7b017b97, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-30 11:40:38,598 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:40:38,600 INFO [IP-UPDATED] namespace: 0a39cefa-cf80-4019-ac2e-298a7b017b97, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-30 11:41:18,961 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:41:18,961 INFO [IP-UPDATED] namespace: 0a39cefa-cf80-4019-ac2e-298a7b017b97, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-30 11:41:26,682 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:41:26,682 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-30 11:42:02,508 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:42:02,508 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-30 11:42:10,206 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:42:10,206 INFO [IP-UPDATED] namespace: 0a39cefa-cf80-4019-ac2e-298a7b017b97, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-30 11:42:40,748 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:42:40,748 INFO [IP-UPDATED] namespace: 0a39cefa-cf80-4019-ac2e-298a7b017b97, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-30 11:43:19,258 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 11:43:19,258 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-30 13:47:42,820 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 13:47:42,820 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-30 13:49:40,826 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 13:49:40,826 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-30 13:50:30,468 INFO {POS} {IP-DISABLED} valid: 172.17.118.113:8888@DEFAULT, region: unknown, msg: client timeout after 15000, last beat: 1556603415212
+
+2019-04-30 13:50:34,563 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_false,
+
+2019-04-30 13:50:38,856 INFO service: DEFAULT_GROUP@@gateway-server {POS} {IP-ENABLED} valid: 172.17.118.113:8888@DEFAULT, region: unknown, msg: client beat ok
+
+2019-04-30 14:16:04,199 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-30 14:16:04,199 INFO [IP-UPDATED] namespace: 29a85fbe-1130-4c13-a90a-3ce2e7122c40, service: DEFAULT_GROUP@@gateway-server, ips: 
+

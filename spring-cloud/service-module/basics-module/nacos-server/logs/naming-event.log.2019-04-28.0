@@ -1,0 +1,164 @@
+2019-04-28 15:11:55,841 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:11:55,844 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:12:50,886 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:12:50,887 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:12:59,822 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:12:59,822 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:17:47,648 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:17:47,648 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:17:58,318 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:17:58,318 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:22:50,315 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:22:50,315 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:23:01,242 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:23:01,242 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:32:30,077 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:32:30,077 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:32:39,381 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:32:39,381 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:34:20,416 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:34:20,416 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:34:31,637 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:34:31,637 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:35:46,479 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:35:46,480 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:41:44,921 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:41:44,921 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:45:01,989 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:45:01,989 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:45:13,927 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:45:13,927 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:46:21,282 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:46:21,282 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:46:32,194 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:46:32,194 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:46:42,683 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:46:42,683 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:53:32,881 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:53:32,881 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:54:02,689 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:54:02,689 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:54:13,147 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:54:13,147 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:55:52,132 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:55:52,133 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:56:03,083 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:56:03,083 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 15:59:23,786 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:59:23,786 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 15:59:32,991 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 15:59:32,991 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 16:09:11,993 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:09:11,993 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 16:09:21,893 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:09:21,893 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 16:09:56,587 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:09:56,587 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 16:10:05,644 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:10:05,644 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 16:12:11,186 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:12:11,186 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 16:12:20,877 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:12:20,878 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 16:13:44,939 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:13:44,939 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 16:13:55,363 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:13:55,363 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 16:14:28,692 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:14:28,692 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 16:50:59,077 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:50:59,077 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 172.17.118.113:8888_true,
+
+2019-04-28 16:51:21,380 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8888:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:51:21,380 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2019-04-28 16:55:18,074 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 16:55:18,074 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 17:03:54,822 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 17:03:54,822 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 17:04:05,960 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 17:04:05,960 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
+2019-04-28 17:19:42,109 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 17:19:42,109 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 
+
+2019-04-28 17:19:53,393 INFO DEFAULT_GROUP@@swagger-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.17.118.113:8500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-04-28 17:19:53,393 INFO [IP-UPDATED] namespace: e2028abc-3fdf-492c-a3d7-d8de579aa73c, service: DEFAULT_GROUP@@swagger-server, ips: 172.17.118.113:8500_true,
+
